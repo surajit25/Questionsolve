@@ -10,4 +10,4 @@ const solution=(string,char)=>{
 
 var charvalue=prompt();
 
-solution("this is for surajit",charvalue);
+solution("this is for test",charvalue);
