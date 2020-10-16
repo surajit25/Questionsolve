@@ -1,3 +1,4 @@
+//write a program to take 10 numbers in an array and count the numbers of positive ,negative and zeros
 const solution=(array)=>{
     var countpositive=0;
     var countnegative=0;
