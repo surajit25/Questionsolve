@@ -1,3 +1,5 @@
+//write a program to take a string and count the occurence of the each character in the string.
+
 const solution=(string)=>{
 
     var extract=string.split("");
